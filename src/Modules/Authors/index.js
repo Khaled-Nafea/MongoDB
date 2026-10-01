@@ -1,0 +1,1 @@
+export { default as authorsRouter } from './author.router.js'
